@@ -4,8 +4,7 @@
 
 Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien. Saya memiliki pengalaman kuat di ekosistem JavaScript (MERN) dan sedang memperdalam Backend dengan Golang serta Mobile Development dengan React Native Dan untuk saya sekarang sedang belajar untuk mobile menggunakan Flutter.
 
-- 🔭 I’m currently working on: **Advanced Web Survey Platform using Go & Next.js**
-- 🌱 I’m currently learning: **Microservices, Docker, & Advanced System Design**
+- 🌱 I’m currently learning: **Microservices, Docker, mobile app dev flutter & Advanced System Design**
 - 💼 Open to work as: **Software Engineer / Fullstack Developer**
 
 ### 🛠️ Tech Stack & Tools
