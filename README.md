@@ -2,14 +2,17 @@
 
 🚀 **Fullstack Developer | Lifelong Learner**
 
-Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien. Saya memiliki pengalaman kuat di ekosistem JavaScript (MERN) dan sedang memperdalam Backend dengan Golang serta Mobile Development dengan React Native Dan untuk saya sekarang sedang belajar untuk mobile menggunakan Flutter.
+Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
+Saya memiliki pengalaman kuat di ekosistem JavaScript (MERN) dan sedang memperdalam Backend dengan Golang serta Mobile Development dengan React Native Dan untuk saya sekarang sedang belajar untuk mobile menggunakan Flutter.
 
-- 🌱 I’m currently learning: **Microservices, Docker, mobile app dev flutter & Advanced System Design**
+- 🔭 I’m currently working on: **Advanced Web Survey Platform using Go & Next.js**
+- 🌱 I’m currently learning: **Microservices, Docker, & Advanced System Design**
 - 💼 Open to work as: **Software Engineer / Fullstack Developer**
 
 ### 🛠️ Tech Stack & Tools
 
 **Frontend:**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -23,8 +26,10 @@ Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi w
 
 **Database & Tools:**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 ---
-https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/ | achmadzacky458@gmail.com
+
+[https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/](https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/) | [achmadzacky458@gmail.com](mailto:achmadzacky458@gmail.com)
