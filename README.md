@@ -2,11 +2,11 @@
 
 🚀 **Fullstack Developer | Lifelong Learner**
 
-Saya adalah pengembang perangkat lunak yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
-Saya memiliki pengalaman kuat di ekosistems JavaScript (MERN) dan sedang memperdalam Backend dengan Golang serta Mobile Development dengan React Native Dan untuk saya sekarang sedang belajar untuk mobile menggunakan Flutter.
+Saya adalah **Fullstack Developer** yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
 
-- 🔭 I’m currently working on: **Advanced Web Survey Platform using Go & Next.js**
-- 🌱 I’m currently learning: **Microservices, Docker, & Advanced System Design**
+Saya memiliki **keahlian solid** dalam ekosistem **JavaScript (MERN)** serta pengembangan **Backend performa tinggi menggunakan Golang**. Di sisi mobile, saya berpengalaman membangun aplikasi lintas platform menggunakan **React Native** dan saat ini sedang memperluas kapabilitas teknologi dengan **Flutter**.
+
+- 🌱 I’m currently learning: **Microservices, Docker, Flutter &  java SpringBoot**
 - 💼 Open to work as: **Software Engineer / Fullstack Developer**
 
 ### 🛠️ Tech Stack & Tools
@@ -22,6 +22,7 @@ Saya memiliki pengalaman kuat di ekosistems JavaScript (MERN) dan sedang memperd
 **Backend:**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+![Gin Gonic](https://img.shields.io/badge/-Gin_Gonic-00ADD8?style=flat&logo=go&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 **Database & Tools:**
