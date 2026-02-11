@@ -33,4 +33,6 @@ Saya memiliki **keahlian solid** dalam ekosistem **JavaScript (MERN)** serta pen
 
 ---
 
+My Contact & Email
+
 [https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/](https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/) | [achmadzacky458@gmail.com](mailto:achmadzacky458@gmail.com)
