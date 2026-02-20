@@ -1,6 +1,6 @@
 # Hi there, I'm Achmad Zacky Ghoutsu Zamani! 👋
 
-🚀 **Fullstack Developer | Lifelong Learner**
+🚀 **Fullstack Developer | Lifelong Learner | Software Developer**
 
 Saya adalah **Fullstack Developer** yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
 
