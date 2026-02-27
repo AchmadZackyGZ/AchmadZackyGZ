@@ -1,15 +1,15 @@
-# Hi there, I'm Achmad Zacky Ghoutsu Zamani! 👋
+# Hi there, I'm Achmad Zacky Ghoutsu Zamani! 
 
-🚀 **Fullstack Developer | Lifelong Learner | Software Developer**
+ **Fullstack Developer | Lifelong Learner | Software Developer**
 
 Saya adalah **Fullstack Developer** yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
 
 Saya memiliki **keahlian solid** dalam ekosistem **JavaScript (MERN)** serta pengembangan **Backend performa tinggi menggunakan Golang**. Di sisi mobile, saya berpengalaman membangun aplikasi lintas platform menggunakan **React Native** dan saat ini sedang memperluas kapabilitas teknologi dengan **Flutter**.
 
-- 🌱 I’m currently learning: **Kotlin, Microservices, Docker, Flutter/dart &  java SpringBoot**
-- 💼 Open to work as: **Software Engineer / Fullstack Developer**
+-  I’m currently learning: **Kotlin, Microservices, Docker, Flutter/dart &  java SpringBoot**
+-  Open to work as: **Software Engineer / Fullstack Developer**
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Frontend:**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
