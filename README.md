@@ -2,7 +2,7 @@
 
  **Fullstack Developer | Lifelong Learner | Software Developer**
 
-Saya adalah **Fullstack Developer** yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
+Saya adalah **Fullstack Developer** || **Software Developer** yang berfokus pada pembangunan aplikasi web dan mobile yang modern, skalabel, dan efisien.
 
 Saya memiliki **keahlian solid** dalam ekosistem **JavaScript (MERN)** serta pengembangan **Backend performa tinggi menggunakan Golang**. Di sisi mobile, saya berpengalaman membangun aplikasi lintas platform menggunakan **React Native** dan saat ini sedang memperluas kapabilitas teknologi dengan **Flutter** & **Java Spring Boot**.
 
