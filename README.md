@@ -1,4 +1,4 @@
-# Hi there, I'm Achmad Zacky Ghoutsu Zamani! 
+# Hello there, I'm Achmad Zacky Ghoutsu Zamani! 
 
  **Fullstack Developer | Lifelong Learner | Software Developer**
 
