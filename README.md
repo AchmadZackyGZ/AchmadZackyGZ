@@ -6,7 +6,7 @@ Saya adalah **Fullstack Developer** || **Software Developer** yang berfokus pada
 
 Saya memiliki **keahlian** dalam ekosistem **JavaScript (MERN)** serta pengembangan **Backend performa tinggi menggunakan Golang** || **Java Spring Boot**. Di sisi mobile, saya berpengalaman membangun aplikasi lintas platform menggunakan **React Native** || **Flutter** dan saat ini sedang memperluas kapabilitas teknologi dengan **Flutter** & **Java Spring Boot**.
 
--  I’m currently learning: **Kotlin, Microservices, Docker, Flutter/dart &  java SpringBoot**
+-  I’m currently learning: **Kotlin, Microservices, Docker, dotnet ,Flutter/dart &  java SpringBoot**
 -  Open to work as: **Software Engineer / Fullstack Developer**
 
 ###  Tech Stack & Tools
