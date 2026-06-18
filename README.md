@@ -6,10 +6,10 @@ Saya adalah **Software Engineer** dengan pengalaman membangun aplikasi skala pro
 
 Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbiasa dengan integrasi *Frontend* modern menggunakan **Next.js** dan ekosistem TypeScript/JavaScript untuk membangun ekosistem *Fullstack* yang utuh.
 
-- 🔭 **I’m currently focusing on:** Microservices Architecture, AI Integration (LangChain4j, Vector DBs), dan optimasi Relational Database.
-- 💼 **Open to work as:** Junior Software Engineer / Backend Developer / Fullstack Developer.
+-  **I’m currently focusing on:** Microservices Architecture, AI Integration (LangChain4j, Vector DBs), dan optimasi Relational Database.
+-  **Open to work as:** Junior Software Engineer / Backend Developer / Fullstack Developer.
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Core Backend & Frameworks:**
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=OpenJDK&logoColor=white)
@@ -28,7 +28,7 @@ Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbias
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-**Frontend (Secondary):**
+**Frontend:**
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -36,6 +36,6 @@ Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbias
 
 ---
 
-### 📫 Let's Connect!
+###  Let's Connect!
 
-[LinkedIn](https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/) | [Email](mailto:achmadzacky458@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/) | [Email](mailto:achmadzackygz@gmail.com)
