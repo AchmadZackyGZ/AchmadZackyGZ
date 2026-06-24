@@ -34,7 +34,7 @@ Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbias
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
----
+------------------------------
 
 ###  Let's Connect!
 
