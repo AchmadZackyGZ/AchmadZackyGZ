@@ -36,6 +36,6 @@ Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbias
 
 ------------------------------
 
-###  Let's Connect!
+###  Let's Connect! And Grow Together
 
 [LinkedIn](https://www.linkedin.com/in/achmad-zacky-ghoutsu-zamani-509468333/) | [Email](mailto:achmadzackygz@gmail.com)
