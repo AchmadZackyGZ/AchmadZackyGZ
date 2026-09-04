@@ -7,7 +7,7 @@ Saya adalah **Software Engineer** dengan pengalaman membangun aplikasi skala pro
 Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbiasa dengan integrasi *Frontend* modern menggunakan **Next.js** dan ekosistem TypeScript/JavaScript untuk membangun ekosistem *Fullstack* yang utuh.
 
 -  **I’m currently focusing on:** Microservices Architecture, AI Integration (LangChain4j, Vector DBs), dan optimasi Relational Database.
--  **Open to work as:** Junior Software Engineer / Backend Developer / Frontend developer / Fullstack Developer.
+-  **Open to work as:** Software Engineer / Backend Developer / Frontend developer / Fullstack Developer.
 
 ###  Tech Stack & Tools
 
