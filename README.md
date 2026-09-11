@@ -1,6 +1,6 @@
 # Hello there, I'm Achmad Zacky Ghoutsu Zamani! 
 
-**Software Engineer | Fullstack Devoper | Golang developer**
+**Software Engineer | Fullstack Devoper | Junior Golang developer**
 
 Saya adalah **Software Engineer** dengan pengalaman membangun aplikasi skala produksi dan arsitektur *event-driven*. Fokus utama saya berada pada pengembangan **Backend berkinerja tinggi** menggunakan ekosistem **Java (Spring Boot)** dan **Golang**, serta fundamental yang kuat dalam merancang skema **Relational Database (PostgreSQL)**, manajemen DBMS, dan RESTful APIs, gRPC, WebHooks, WebSocket, GraphQL.
 
