@@ -6,7 +6,7 @@ Saya adalah **backend Enginner** dengan pengalaman membangun aplikasi skala prod
 
 Meskipun kekuatan utama saya ada di arsitektur sistem backend, saya juga terbiasa dengan integrasi *Frontend* modern menggunakan **Next.js** dan ekosistem TypeScript/JavaScript untuk membangun ekosistem *Fullstack* yang utuh.
 
--  **I’m currently focusing on:** Microservices Architecture, AI Integration (LangChain4j, implementaion Machine learning on real project,Vector DBs), dan optimasi Relational Database.
+-  **I’m currently Learning on:** Microservices Architecture, AI Integration (LangChain4j, implementaion Machine learning on real project,Vector DBs), implement API Structure and System design for architecture Clean Code, dan optimasi Database.
 -  **Open to work as:** Software Engineer / Backend Developer / Frontend developer / Fullstack Developer.
 
 ###  Tech Stack & Tools
